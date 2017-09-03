@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "410518121136",
+    "project_id": "natural-furnace-178617"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410518121136:android:8452832e23b1a924",
+        "android_client_info": {
+          "package_name": "com.bett.kotlinlogingoogleplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410518121136-de4ghs2nb4kghb4fhf5mm5hgf1tevf2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bett.kotlinlogingoogleplus",
+            "certificate_hash": "782ed319059c889f5d395c85be9dc8c92e69d58e"
+          }
+        },
+        {
+          "client_id": "410518121136-trisppup5irs7ddjf0fe62khbimkq5lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGKQ5YqjDRD0pyALT-WjzeySGsvuHlDr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
