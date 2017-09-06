@@ -1,6 +1,6 @@
 # Android Kotlin Login Google Plus
 
-[![Watch the video](http://i.imgur.com/Wn5L5B1.png)](https://goo.gl/4m8u3f)
+[![Watch the video](https://i.imgur.com/forSFU8.png)](https://youtu.be/RpHQBpkFbJs)
 
 ### 1. Create config file 
 ```google-services.json```
